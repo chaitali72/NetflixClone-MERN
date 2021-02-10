@@ -2,6 +2,9 @@
 
  This project is a simplified Front-End Clone of Netflix.
  TEchnology Stack:
+ 
+ 
+ 
  Frond-end: HTML5,CSS3,JAVASCRIPT,REACT,React-youtube
  Back-end : Node.js,Axios,firebase
 

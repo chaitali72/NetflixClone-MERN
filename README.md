@@ -17,3 +17,14 @@ Features:
 ✔️ Data updates when new movies and shows added
 ✔️ Resonsive web site means adpats any screen size
  
+<ul>
+<h2>Features</h2>
+<li> Display Movies, Series</li>
+<li> Can play videos of selected movies or series</li>
+<li> Movies and series data from TMDB API</li>
+<li>
+Deployed in Firebase</li>
+<li>
+Responsive
+</li>
+</ul>
